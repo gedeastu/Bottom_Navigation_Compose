@@ -62,6 +62,7 @@ class MainActivity : ComponentActivity() {
                                        name = "Chat",
                                        route = "chat",
                                        icon = Icons.Default.Notifications,
+                                       badgeCount = 23
                                    ),
                                    BottomNavItem(
                                        name = "Settings",
